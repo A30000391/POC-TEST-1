@@ -1,9 +1,9 @@
 ﻿{
   "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
   "webJobName": "HellowWebjob",
-  "startTime": "2019-07-14T00:00:00+10:00",
-  "endTime": "2019-07-16T00:00:00+10:00",
-  "jobRecurrenceFrequency": "Minute",
-  "interval": 1,
-  "runMode": "Scheduled"
+  "startTime": null,
+  "endTime": null,
+  "jobRecurrenceFrequency": null,
+  "interval": null,
+  "runMode": "Continuous"
 }
